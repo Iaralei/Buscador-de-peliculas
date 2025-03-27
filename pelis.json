@@ -1,0 +1,60 @@
+[{
+  "title": "Estado electrico",
+  "rating": 7,
+  "tags": ["ciencia ficcion", "aventura"],
+  "year": 2025
+},
+{
+  "title": "Quiero robarme a la novia",
+  "rating": 6,
+  "tags": ["comedia", "romance"],
+  "year":2008
+},
+{
+  "title": "Interestelar",
+  "rating": 8,
+  "tags": ["aventura", "drama", "ciencia ficcion"],
+  "year":2014
+},
+{
+  "title": "El avismo secreto",
+  "rating": 8,
+  "tags": ["0", "romance","ciencia ficcion","suspenso"],
+  "year":2025
+},
+{
+  "title": "Gladiador",
+  "rating": 9,
+  "tags": ["favorita", "accion","drama","aventura"],
+  "year":2000
+},
+{
+  "title": "Guardianes de la Galaxia volumen 3",
+  "rating": 7,
+  "tags": ["favorita", "ciencia ficcion","aventura","accion"],
+  "year":2023
+},
+{
+  "title": "Parque Jurásico",
+  "rating": 8,
+  "tags": ["aventura", "ciencia ficcion"],
+  "year":1993
+},
+{
+  "title": "Parano-IA",
+  "rating": 5,
+  "tags": ["terror", "ciencia ficcion","suspenso"],
+  "year":2024
+},
+{
+  "title": "El Ángel de la Muerte",
+  "rating": 6,
+  "tags": ["drama", "crimen","suspenso","misterio"],
+  "year":2022
+},
+{
+  "title": "Sherlock Holmes: Juego de sombras",
+  "rating": 10,
+  "tags": ["aventura", "accion","favorita","crimen","misterio"],
+  "year":2017
+}]
